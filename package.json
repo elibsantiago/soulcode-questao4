@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/elibsantiago.lwc-kznnf0c0",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve KjJiK8YPzpgBIu3KIgvc --open"
+  }
+}
